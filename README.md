@@ -1,6 +1,6 @@
 # basic-form
 
-Simple form with all types of input and data stored in local storage, displayed in a table.
+Simple form with all types of input and data stored in local-storage, displayed in a table.
 
 # Getting Started with Create React App
 
